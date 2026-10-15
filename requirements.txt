@@ -1,0 +1,6 @@
+torch>=2.1
+transformers>=4.40
+safetensors>=0.4
+pandas>=2.0
+pyarrow>=14.0
+math-verify>=0.8.0
